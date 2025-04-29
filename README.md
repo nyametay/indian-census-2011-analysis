@@ -1,4 +1,4 @@
-# 🇮🇳 Indian Census 2011 Data Analysis
+# Indian Census 2011 Data Analysis
 
 This repository contains a Jupyter Notebook that performs data analysis on the 2011 Census of India. It uses Python and pandas to explore demographics, religion, workforce, and other metrics at the state and district levels.
 
@@ -59,7 +59,7 @@ pip install pandas
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/indian-census-2011-analysis.git
+git clone https://github.com/nyametay/indian-census-2011-analysis.git
 cd indian-census-2011-analysis
 ```
 2. Launch Jupyter Notebook:
